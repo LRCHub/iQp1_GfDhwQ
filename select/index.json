@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "I'll Be There",
+  "base_artist": "Jess Glynne",
+  "createdAt": "2026-02-11T15:07:48.400273Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I'll Be There",
+      "artist": "Mariah Carey feat. Trey Lorenz",
+      "has_synced": true,
+      "path": "select/01_I'll_Be_There_Mariah_Carey_feat._Trey_Lorenz.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I'll Be There (Feat. Trey Lorenz) (MTV Unplugged Version)",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/02_I'll_Be_There_(Feat._Trey_Lorenz)_(MTV_Unplugged_Version)_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I'll Be There",
+      "artist": "Tevin Campbell",
+      "has_synced": true,
+      "path": "select/03_I'll_Be_There_Tevin_Campbell.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I'll Be There for You",
+      "artist": "Primal Scream",
+      "has_synced": true,
+      "path": "select/04_I'll_Be_There_for_You_Primal_Scream.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I'll Be There",
+      "artist": "Megadeth",
+      "has_synced": true,
+      "path": "select/05_I'll_Be_There_Megadeth.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I'll Be There",
+      "artist": "Strawberry Guy",
+      "has_synced": true,
+      "path": "select/06_I'll_Be_There_Strawberry_Guy.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I'll Be There",
+      "artist": "Kenny Loggins",
+      "has_synced": true,
+      "path": "select/07_I'll_Be_There_Kenny_Loggins.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I'll Be There",
+      "artist": "Starship",
+      "has_synced": false,
+      "path": "select/08_I'll_Be_There_Starship.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I'll Be There",
+      "artist": "Starship",
+      "has_synced": true,
+      "path": "select/09_I'll_Be_There_Starship.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Reach Out I'll Be There",
+      "artist": "Narada Michael Walden",
+      "has_synced": false,
+      "path": "select/10_Reach_Out_I'll_Be_There_Narada_Michael_Walden.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Reach Out I'll Be There",
+      "artist": "Irene Cara",
+      "has_synced": false,
+      "path": "select/11_Reach_Out_I'll_Be_There_Irene_Cara.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I'll Be There",
+      "artist": "La Bouche",
+      "has_synced": true,
+      "path": "select/12_I'll_Be_There_La_Bouche.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I'll Be There for You (Theme From “Friends”) [feat. The Rembrandts]",
+      "artist": "Scott Bradlee & Postmodern Jukebox",
+      "has_synced": false,
+      "path": "select/13_I'll_Be_There_for_You_(Theme_From_“Friends”)_[feat._The_Rembrandts]_Scott_Bradlee_&_Postmodern_Jukebox.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I'll Be There - Minus Mix",
+      "artist": "The Jackson 5",
+      "has_synced": true,
+      "path": "select/14_I'll_Be_There_-_Minus_Mix_The_Jackson_5.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Medley: Turn It On Again, Pinball Wizard, Satisfaction, In The Midnight Hour, Somebody To Love, You've Lost That Loving Feeling, Reach Out I'll Be There",
+      "artist": "Genesis",
+      "has_synced": false,
+      "path": "select/15_Medley__Turn_It_On_Again,_Pinball_Wizard,_Satisfaction,_In_The_Midnight_Hour,_So_Genesis.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I'll Be There For You",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/16_I'll_Be_There_For_You_Bon_Jovi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I'll Be There",
+      "artist": "Jess Glynne",
+      "has_synced": false,
+      "path": "select/pl_01_I'll_Be_There_Jess_Glynne.txt"
+    }
+  ]
+}
